@@ -10,8 +10,7 @@ This project focuses on exploring Amazon datasets, building predictive models, a
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
-- Scikit-Learn
-- TensorFlow / PyTorch (if using ML models)
+  
 
 ##  Features
 - Data Cleaning and Analysis
